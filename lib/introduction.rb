@@ -1,8 +1,9 @@
-#Takes a string (name) and prints intro with given name.
+#prints an intro using given name
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
 
+#prints an intro using given name and programming language
 def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
