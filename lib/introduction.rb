@@ -1,3 +1,4 @@
+#Takes a string (name) and prints intro with given name.
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
